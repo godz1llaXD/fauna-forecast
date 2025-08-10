@@ -1,0 +1,5 @@
+#ignoring raw data
+data/raw
+#Temp files
+*.tmp
+*.log
